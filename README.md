@@ -47,6 +47,8 @@ To add a new stock, select "Add Stock" option from the starting menu.
 ## Memory
 
 Memory is being allocated dynamically and deallocated when the program exits.
+It uses a head->next algorithm, where a pointer named "head" points to the last 
+element of the array, and "head->next" returns an address pointing to the previous memory storage. 
 
 ## History
 
