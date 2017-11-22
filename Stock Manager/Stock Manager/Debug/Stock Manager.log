@@ -1,0 +1,15 @@
+﻿  scan_UnsInt.c
+  scan_Str.c
+  scan_Real.c
+  scan_Int.c
+  scan_Date.c
+  scan_Arrow.c
+  msg.c
+  main.c
+  interface.c
+  digit.c
+  cons.c
+  Globals.c
+  Functions.c
+  Generating Code...
+  Stock Manager.vcxproj -> C:\Users\Eduard\Google Drive\Projects - Hall of Fame\Stock Manager\Stock Manager\Debug\Stock Manager.exe

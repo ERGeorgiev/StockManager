@@ -1,0 +1,17 @@
+﻿  cons.c
+  Functions.c
+  digit.c
+  Globals.c
+  interface.c
+  main.c
+  msg.c
+  scan_Arrow.c
+  scan_Int.c
+  scan_Real.c
+  scan_Str.c
+  scan_UnsInt.c
+  scan_Date.c
+  Generating code
+  All 89 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Stock Manager.vcxproj -> C:\Users\Eduard\Google Drive\Projects - Hall of Fame\Stock Manager\Release\Stock Manager.exe
