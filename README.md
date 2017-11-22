@@ -15,6 +15,7 @@ To use Stock Manager:
 
 ## Recommended Requirements
 
+| --- | --- |
 | Operating System  | Winows XP or better  				|
 | CPU  				| Pentium 60 or better 				|
 | GPU 				| VGA graphical card with DirectX	|
@@ -29,6 +30,7 @@ To add a new stock, select "Add Stock" option from the starting menu.
 
 ### Data Validation
 
+| --- | --- |
 | Stock ID (auto)  				| Automatically generated  							|
 | Barcode  						| Maximum 30 characters 							|
 | Name of Product 				| Maximum 50 characters 							|
